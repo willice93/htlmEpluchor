@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://kodakledlighting.eu/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://kodakledlighting.eu/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://kodakledlighting.eu/collections/a19s.atom"/>
+  <title>Kodakled-fr</title>
+  <updated>2015-12-03T12:16:00+01:00</updated>
+  <author>
+    <name>Kodakled-fr</name>
+  </author>
+  <entry>
+    <id>https://kodakledlighting.eu/products/2308650949</id>
+    <published>2015-12-03T12:16:00+01:00</published>
+    <updated>2015-12-03T12:16:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kodakledlighting.eu/products/a19s-25"/>
+    <title>#42114 4W A15 Filament LED Clair 2700K/3000K/4000K Base E27</title>
+    <s:type>A19s</s:type>
+    <s:vendor>Kodak LED</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1011/5098/products/42114_A_15_77db1e31-1886-41ba-91a0-cb6956f35938.png?v=1448290625" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kodak LED<br>
+        <strong>Type: </strong>A19s<br>
+        <strong>Price: </strong>
+            12.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Description</strong></p>
+<p>L’ampoule de type A15 de KODAK Led Lighting est disponible en trois catégories : En verre Clair, Opaque et Ambre, cette ampoule bénéficie de la nouvelle technologie Filament LED. Elle offre un faisceau lumineux de 360° avec un globe 100% verre pour une durée de vie de 30 000 heures.</p>
+<p>Elle diffuse une lumière douce et chaleureuse.</p>
+<p>Toutes les ampoules KODAK LED sont dimmables.</p>
+<p>Certificats : CE, TUV, RoHS</p>
+<p><strong>Caractéristiques</strong></p>
+<ul>
+<li>Durée de vie : 30 000 Heures</li>
+<li>Garantie : 3 ans</li>
+<li>Puissance consommée : 4W</li>
+<li>IRC : 82</li>
+<li>Dimmable : OUI</li>
+<li>400 Lumens</li>
+<li>Faisceau Lumineux : 360°</li>
+<li>Pas d'UV / aucun IR</li>
+<li>Température de fonctionnement : -10 ° C à + 40 ° C, -24 ° F à + 104 ° F</li>
+</ul>
+<p><strong>Construction</strong></p>
+<ul>
+<li>Culot en aluminium</li>
+<li>Ampoule claire et 100% verre</li>
+<li>Filament LED</li>
+<li>Base E27</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A19</s:tag>
+    <s:variant>
+      <id>https://kodakledlighting.eu/products/2308650949</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.73</s:price>
+      <s:sku>42114</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kodakledlighting.eu/products/2308651397</id>
+    <published>2015-12-03T12:15:00+01:00</published>
+    <updated>2015-12-03T12:15:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kodakledlighting.eu/products/a19s-24"/>
+    <title>#42113 2W A15 Filament LED Clair 2700K/3000K/4000K Base E27</title>
+    <s:type>A19s</s:type>
+    <s:vendor>Kodak LED</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1011/5098/products/42113_A_15_315a71c2-9905-4275-a052-570976676e2e.png?v=1448290633" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kodak LED<br>
+        <strong>Type: </strong>A19s<br>
+        <strong>Price: </strong>
+            10.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Description</strong></p>
+<p>L’ampoule de type A15 de KODAK Led Lighting est disponible en trois catégories : En verre Clair, Opaque et Ambre, cette ampoule bénéficie de la nouvelle technologie Filament LED. Elle offre un faisceau lumineux de 360° avec un globe 100% verre pour une durée de vie de 30 000 heures.</p>
+<p>Elle diffuse une lumière douce et chaleureuse.</p>
+<p>Toutes les ampoules KODAK LED sont dimmables.</p>
+<p>Certificats : CE, TUV, RoHS</p>
+<p><strong>Caractéristiques</strong></p>
+<ul>
+<li>Durée de vie : 30 000 Heures</li>
+<li>Garantie : 3 ans</li>
+<li>Puissance consommée : 2W</li>
+<li>IRC : 82</li>
+<li>Dimmable : OUI</li>
+<li>200 Lumens</li>
+<li>Faisceau Lumineux : 360°</li>
+<li>Pas d'UV / aucun IR</li>
+<li>Température de fonctionnement : -10 ° C à + 40 ° C, -24 ° F à + 104 ° F</li>
+</ul>
+<p><strong>Construction</strong></p>
+<ul>
+<li>Culot en aluminium</li>
+<li>Ampoule claire et 100% verre</li>
+<li>Filament LED</li>
+<li>Base E27</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A19</s:tag>
+    <s:variant>
+      <id>https://kodakledlighting.eu/products/2308651397</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.38</s:price>
+      <s:sku>42113</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kodakledlighting.eu/products/2308654597</id>
+    <published>2015-12-03T12:12:00+01:00</published>
+    <updated>2015-12-03T12:12:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kodakledlighting.eu/products/a19s-18"/>
+    <title>#42073 6W A19 Filament Led Clair CRI 92 2200K/2700K/3000K Base E27</title>
+    <s:type>A19s</s:type>
+    <s:vendor>Kodak LED</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1011/5098/products/42073_66baa4d6-2dce-4ef3-9343-ec27b94ee212.png?v=1448290670" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kodak LED<br>
+        <strong>Type: </strong>A19s<br>
+        <strong>Price: </strong>
+            16.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Description</strong></p>
+<p>L’ampoule de type A19 de KODAK Led Lighting est disponible en trois catégories : En verre Clair, Opaque et Ambre, cette ampoule bénéficie de la nouvelle technologie Filament LED. Elle offre un faisceau lumineux de 360° avec un globe 100% verre pour une durée de vie de 30 000 heures.</p>
+<p>Elle diffuse une lumière douce et chaleureuse.</p>
+<p>Toutes les ampoules KODAK LED sont dimmables.</p>
+<p>Certificats : CE, TUV, RoHS</p>
+<p><strong>Caractéristiques</strong></p>
+<ul>
+<li>Durée de vie : 30 000 Heures</li>
+<li>Garantie : 3 ans</li>
+<li>Puissance consommée : 6W</li>
+<li>IRC : 92</li>
+<li>Dimmable : OUI</li>
+<li>600 Lumens</li>
+<li>Faisceau Lumineux : 360°</li>
+<li>Pas d'UV / aucun IR</li>
+<li>Température de fonctionnement : -10 ° C à + 40 ° C, -24 ° F à + 104 ° F</li>
+</ul>
+<p><strong>Construction</strong></p>
+<ul>
+<li>Culot en aluminium</li>
+<li>Ampoule claire et 100% verre</li>
+<li>Filament LED</li>
+<li>Base E27</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A19</s:tag>
+    <s:variant>
+      <id>https://kodakledlighting.eu/products/2308654597</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">16.57</s:price>
+      <s:sku>42073</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kodakledlighting.eu/products/2308640069</id>
+    <published>2015-12-03T12:08:00+01:00</published>
+    <updated>2015-12-03T12:08:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kodakledlighting.eu/products/41161-br-60w-a19"/>
+    <title>#41161 6W A19 Filament LED Clair Zig-Zag 2700K/3000K/4000K Base E27</title>
+    <s:type>A19s</s:type>
+    <s:vendor>Kodak LED</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1011/5098/products/41159_40W_e98332c0-64ef-41fb-9b3b-41cc8aa1943a.png?v=1448290501" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kodak LED<br>
+        <strong>Type: </strong>A19s<br>
+        <strong>Price: </strong>
+            12.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Description</strong></p>
+<p>L’ampoule de type A19 de KODAK Led Lighting est disponible en trois catégories : En verre Clair, Opaque et Ambre, cette ampoule bénéficie de la nouvelle technologie Filament LED. Elle offre un faisceau lumineux de 360° avec un globe 100% verre pour une durée de vie de 30 000 heures.</p>
+<p>Elle diffuse une lumière douce et chaleureuse.</p>
+<p>Toutes les ampoules KODAK LED sont dimmables.</p>
+<p>Certificats : CE, TUV, RoHS</p>
+<p><strong>Caractéristiques</strong></p>
+<ul>
+<li>Durée de vie : 30 000 Heures</li>
+<li>Garantie : 3 ans</li>
+<li>Puissance consommée : 6W</li>
+<li>IRC : 82</li>
+<li>Dimmable : OUI</li>
+<li>600 Lumens</li>
+<li>Faisceau Lumineux : 360°</li>
+<li>Pas d'UV / aucun IR</li>
+<li>Température de fonctionnement : -10 ° C à + 40 ° C, -24 ° F à + 104 ° F</li>
+</ul>
+<p><strong>Construction</strong></p>
+<ul>
+<li>Culot en aluminium</li>
+<li>Ampoule claire et 100% verre</li>
+<li>Filament Zig Zag</li>
+<li>Base E27</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A19</s:tag>
+    <s:variant>
+      <id>https://kodakledlighting.eu/products/2308640069</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.92</s:price>
+      <s:sku>41161</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kodakledlighting.eu/products/2308656581</id>
+    <published>2015-12-03T12:05:00+01:00</published>
+    <updated>2015-12-03T12:05:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kodakledlighting.eu/products/a19s-11"/>
+    <title>#41159 4W A19 Filament Led Clair Zig Zag 2700K/3000K/4000K Base E27</title>
+    <s:type>A19s</s:type>
+    <s:vendor>Kodak LED</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1011/5098/products/41159_40W_c32c0c80-30e1-408e-8afc-af739ece8a50.png?v=1448290704" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kodak LED<br>
+        <strong>Type: </strong>A19s<br>
+        <strong>Price: </strong>
+            17.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Description</strong></p>
+<p>L’ampoule de type A21 de KODAK Led Lighting est disponible en trois catégories : En verre Clair, Opaque et Ambre, cette ampoule bénéficie de la nouvelle technologie Filament LED. Elle offre un faisceau lumineux de 360° avec un globe 100% verre pour une durée de vie de 30 000 heures.</p>
+<p>Elle diffuse une lumière douce et chaleureuse.</p>
+<p>Toutes les ampoules KODAK LED sont dimmables.</p>
+<p>Certificats : CE, TUV, RoHS</p>
+<p><strong>Caractéristiques</strong></p>
+<ul>
+<li>Durée de vie : 30 000 Heures</li>
+<li>Garantie : 3 ans</li>
+<li>Puissance consommée : 4W</li>
+<li>IRC : 82</li>
+<li>Dimmable : OUI</li>
+<li>400 Lumens</li>
+<li>Faisceau Lumineux : 360°</li>
+<li>Pas d'UV / aucun IR</li>
+<li>Température de fonctionnement : -10 ° C à + 40 ° C, -24 ° F à + 104 ° F</li>
+</ul>
+<p><strong>Construction</strong></p>
+<ul>
+<li>Culot en aluminium</li>
+<li>Ampoule claire et 100% verre</li>
+<li>Filament Zig Zag</li>
+<li>Base E27</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A19</s:tag>
+    <s:variant>
+      <id>https://kodakledlighting.eu/products/2308656581</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">17.94</s:price>
+      <s:sku>41159</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kodakledlighting.eu/products/2308655429</id>
+    <published>2015-12-03T12:03:00+01:00</published>
+    <updated>2015-12-03T12:03:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kodakledlighting.eu/products/a19s-14"/>
+    <title>#42045 6W A19 Filament LED Ambre 2700K/3000K/4000K Base E27</title>
+    <s:type>A19s</s:type>
+    <s:vendor>Kodak LED</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1011/5098/products/42045_3e566769-562a-48d5-a0bd-a8ca79d4449f.png?v=1448290682" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kodak LED<br>
+        <strong>Type: </strong>A19s<br>
+        <strong>Price: </strong>
+            12.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Description</strong></p>
+<p>L’ampoule de type A19 Ambre de KODAK Led Lighting est disponible en trois catégories : En verre Clair, Opaque et Ambre, cette ampoule bénéficie de la nouvelle technologie Filament LED. Elle offre un faisceau lumineux de 360° avec un globe 100% verre pour une durée de vie de 30 000 heures.</p>
+<p>Elle diffuse une lumière douce et chaleureuse.</p>
+<p>Toutes les ampoules KODAK LED sont dimmables.</p>
+<p>Certificats : CE, TUV, RoHS</p>
+<p><strong>Caractéristiques</strong></p>
+<ul>
+<li>Durée de vie : 30 000 Heures</li>
+<li>Garantie : 3 ans</li>
+<li>Puissance consommée : 6W</li>
+<li>IRC : 82</li>
+<li>Dimmable : OUI</li>
+<li>600 Lumens</li>
+<li>Faisceau Lumineux : 360°</li>
+<li>Pas d'UV / aucun IR</li>
+<li>Température de fonctionnement : -10 ° C à + 40 ° C, -24 ° F à + 104 ° F</li>
+</ul>
+<p><strong>Construction</strong></p>
+<ul>
+<li>Culot en aluminium</li>
+<li>Ampoule Ambre et 100% verre</li>
+<li>Filament extra long</li>
+<li>Base E27</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A19</s:tag>
+    <s:variant>
+      <id>https://kodakledlighting.eu/products/2308655429</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.53</s:price>
+      <s:sku>42045</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kodakledlighting.eu/products/2308657221</id>
+    <published>2015-12-03T12:01:00+01:00</published>
+    <updated>2015-12-03T12:01:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kodakledlighting.eu/products/a19s-10"/>
+    <title>#41145 8W A19 Filament LED Clair 2700K/3000K/4000K Base E27</title>
+    <s:type>A19s</s:type>
+    <s:vendor>Kodak LED</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1011/5098/products/41145_2b9553c3-65bb-4d11-a68f-dbf1893134a5.png?v=1448290712" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kodak LED<br>
+        <strong>Type: </strong>A19s<br>
+        <strong>Price: </strong>
+            17.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Description</strong></p>
+<p>L’ampoule de type A19 de KODAK Led Lighting est disponible en trois catégories : En verre Clair, Opaque et Ambre, cette ampoule bénéficie de la nouvelle technologie Filament LED. Elle offre un faisceau lumineux de 360° avec un globe 100% verre pour une durée de vie de 30 000 heures.</p>
+<p>Elle diffuse une lumière douce et chaleureuse.</p>
+<p>Toutes les ampoules KODAK LED sont dimmables.</p>
+<p>Certificats : CE, TUV, RoHS</p>
+<p><strong>Caractéristiques</strong></p>
+<ul>
+<li>Durée de vie : 30 000 Heures</li>
+<li>Garantie : 3 ans</li>
+<li>Puissance consommée : 8W</li>
+<li>IRC : 82</li>
+<li>Dimmable : OUI</li>
+<li>900 Lumens</li>
+<li>Faisceau Lumineux : 360°</li>
+<li>Pas d'UV / aucun IR</li>
+<li>Température de fonctionnement : -10 ° C à + 40 ° C, -24 ° F à + 104 ° F</li>
+</ul>
+<p><strong>Construction</strong></p>
+<ul>
+<li>Culot en aluminium</li>
+<li>Ampoule claire et 100% verre</li>
+<li>Filament extra long</li>
+<li>Base E27</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A19</s:tag>
+    <s:variant>
+      <id>https://kodakledlighting.eu/products/2308657221</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">17.62</s:price>
+      <s:sku>41145</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kodakledlighting.eu/products/3174670917</id>
+    <published>2015-12-03T12:01:00+01:00</published>
+    <updated>2015-12-03T12:01:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kodakledlighting.eu/products/copy-of-41068-4w-a19-filament-led-clair-2700k-3000k-4000k-base-e27"/>
+    <title>#41068 4W A19 Filament LED Clair 2700K/3000K/4000K Base E27</title>
+    <s:type>A19s</s:type>
+    <s:vendor>Kodak LED</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1011/5098/products/41145_27022634-e907-41d5-8005-93cd4a2243db.png?v=1449479672" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kodak LED<br>
+        <strong>Type: </strong>A19s<br>
+        <strong>Price: </strong>
+            9.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Description</strong></p>
+<p>L’ampoule de type A19 de KODAK Led Lighting est disponible en trois catégories : En verre Clair, Opaque et Ambre, cette ampoule bénéficie de la nouvelle technologie Filament LED. Elle offre un faisceau lumineux de 360° avec un globe 100% verre pour une durée de vie de 30 000 heures.</p>
+<p>Elle diffuse une lumière douce et chaleureuse.</p>
+<p>Toutes les ampoules KODAK LED sont dimmables.</p>
+<p>Certificats : CE, TUV, RoHS</p>
+<p><strong>Caractéristiques</strong></p>
+<ul>
+<li>Durée de vie : 30 000 Heures</li>
+<li>Garantie : 3 ans</li>
+<li>Puissance consommée : 4W</li>
+<li>IRC : 82</li>
+<li>Dimmable : OUI</li>
+<li>400 Lumens</li>
+<li>Faisceau Lumineux : 360°</li>
+<li>Pas d'UV / aucun IR</li>
+<li>Température de fonctionnement : -10 ° C à + 40 ° C, -24 ° F à + 104 ° F</li>
+</ul>
+<p><strong>Construction</strong></p>
+<ul>
+<li>Culot en aluminium</li>
+<li>Ampoule claire et 100% verre</li>
+<li>Filament extra long</li>
+<li>Base E27</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A19</s:tag>
+    <s:variant>
+      <id>https://kodakledlighting.eu/products/3174670917</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.20</s:price>
+      <s:sku>41145</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kodakledlighting.eu/products/3174673733</id>
+    <published>2015-12-03T12:01:00+01:00</published>
+    <updated>2015-12-03T12:01:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kodakledlighting.eu/products/copy-of-copy-of-41069-5w-a19-filament-led-clair-2700k-3000k-4000k-base-e27"/>
+    <title>#41069 5W A19 Filament LED Clair 2700K/3000K/4000K Base E27</title>
+    <s:type>A19s</s:type>
+    <s:vendor>Kodak LED</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1011/5098/products/41145_5bf73b6f-d171-499c-825b-6dc6cb0acbff.png?v=1449479717" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kodak LED<br>
+        <strong>Type: </strong>A19s<br>
+        <strong>Price: </strong>
+            11.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Description</strong></p>
+<p>L’ampoule de type A19 de KODAK Led Lighting est disponible en trois catégories : En verre Clair, Opaque et Ambre, cette ampoule bénéficie de la nouvelle technologie Filament LED. Elle offre un faisceau lumineux de 360° avec un globe 100% verre pour une durée de vie de 30 000 heures.</p>
+<p>Elle diffuse une lumière douce et chaleureuse.</p>
+<p>Toutes les ampoules KODAK LED sont dimmables.</p>
+<p>Certificats : CE, TUV, RoHS</p>
+<p><strong>Caractéristiques</strong></p>
+<ul>
+<li>Durée de vie : 30 000 Heures</li>
+<li>Garantie : 3 ans</li>
+<li>Puissance consommée : 5W</li>
+<li>IRC : 82</li>
+<li>Dimmable : OUI</li>
+<li>500 Lumens</li>
+<li>Faisceau Lumineux : 360°</li>
+<li>Pas d'UV / aucun IR</li>
+<li>Température de fonctionnement : -10 ° C à + 40 ° C, -24 ° F à + 104 ° F</li>
+</ul>
+<p><strong>Construction</strong></p>
+<ul>
+<li>Culot en aluminium</li>
+<li>Ampoule claire et 100% verre</li>
+<li>Filament extra long</li>
+<li>Base E27</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A19</s:tag>
+    <s:variant>
+      <id>https://kodakledlighting.eu/products/3174673733</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.36</s:price>
+      <s:sku>41145</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kodakledlighting.eu/products/3174678405</id>
+    <published>2015-12-03T12:01:00+01:00</published>
+    <updated>2015-12-03T12:01:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kodakledlighting.eu/products/41070-6w-a19-filament-led-clair-2700k-3000k-4000k-base-e27"/>
+    <title>#41070 6W A19 Filament LED Clair 2700K/3000K/4000K Base E27</title>
+    <s:type>A19s</s:type>
+    <s:vendor>Kodak LED</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1011/5098/products/41145_1e7c7c40-fcdd-41dc-97ce-1d85fa51f82e.png?v=1449479785" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kodak LED<br>
+        <strong>Type: </strong>A19s<br>
+        <strong>Price: </strong>
+            11.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Description</strong></p>
+<p>L’ampoule de type A19 de KODAK Led Lighting est disponible en trois catégories : En verre Clair, Opaque et Ambre, cette ampoule bénéficie de la nouvelle technologie Filament LED. Elle offre un faisceau lumineux de 360° avec un globe 100% verre pour une durée de vie de 30 000 heures.</p>
+<p>Elle diffuse une lumière douce et chaleureuse.</p>
+<p>Toutes les ampoules KODAK LED sont dimmables.</p>
+<p>Certificats : CE, TUV, RoHS</p>
+<p><strong>Caractéristiques</strong></p>
+<ul>
+<li>Durée de vie : 30 000 Heures</li>
+<li>Garantie : 3 ans</li>
+<li>Puissance consommée : 6W</li>
+<li>IRC : 82</li>
+<li>Dimmable : OUI</li>
+<li>600 Lumens</li>
+<li>Faisceau Lumineux : 360°</li>
+<li>Pas d'UV / aucun IR</li>
+<li>Température de fonctionnement : -10 ° C à + 40 ° C, -24 ° F à + 104 ° F</li>
+</ul>
+<p><strong>Construction</strong></p>
+<ul>
+<li>Culot en aluminium</li>
+<li>Ampoule claire et 100% verre</li>
+<li>Filament extra long</li>
+<li>Base E27</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A19</s:tag>
+    <s:variant>
+      <id>https://kodakledlighting.eu/products/3174678405</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.71</s:price>
+      <s:sku>41145</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kodakledlighting.eu/products/3174689093</id>
+    <published>2015-12-03T12:01:00+01:00</published>
+    <updated>2015-12-03T12:01:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kodakledlighting.eu/products/41181-7w-a19-filament-led-clair-2700k-3000k-4000k-base-e27"/>
+    <title>#41181 7W A19 Filament LED Clair 2700K/3000K/4000K Base E27</title>
+    <s:type>A19s</s:type>
+    <s:vendor>Kodak LED</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1011/5098/products/41145_a56d2301-9232-4868-99aa-ff4ca875171d.png?v=1449479966" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kodak LED<br>
+        <strong>Type: </strong>A19s<br>
+        <strong>Price: </strong>
+            17.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Description</strong></p>
+<p>L’ampoule de type A19 de KODAK Led Lighting est disponible en trois catégories : En verre Clair, Opaque et Ambre, cette ampoule bénéficie de la nouvelle technologie Filament LED. Elle offre un faisceau lumineux de 360° avec un globe 100% verre pour une durée de vie de 30 000 heures.</p>
+<p>Elle diffuse une lumière douce et chaleureuse.</p>
+<p>Toutes les ampoules KODAK LED sont dimmables.</p>
+<p>Certificats : CE, TUV, RoHS</p>
+<p><strong>Caractéristiques</strong></p>
+<ul>
+<li>Durée de vie : 30 000 Heures</li>
+<li>Garantie : 3 ans</li>
+<li>Puissance consommée : 7W</li>
+<li>IRC : 82</li>
+<li>Dimmable : OUI</li>
+<li>800 Lumens</li>
+<li>Faisceau Lumineux : 360°</li>
+<li>Pas d'UV / aucun IR</li>
+<li>Température de fonctionnement : -10 ° C à + 40 ° C, -24 ° F à + 104 ° F</li>
+</ul>
+<p><strong>Construction</strong></p>
+<ul>
+<li>Culot en aluminium</li>
+<li>Ampoule claire et 100% verre</li>
+<li>Filament extra long</li>
+<li>Base E27</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A19</s:tag>
+    <s:variant>
+      <id>https://kodakledlighting.eu/products/3174689093</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">17.62</s:price>
+      <s:sku>41145</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kodakledlighting.eu/products/8674242501</id>
+    <published>2015-12-03T12:01:00+01:00</published>
+    <updated>2015-12-03T12:01:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kodakledlighting.eu/products/copy-of-41068-4w-a19-filament-led-clair-2700k-3000k-4000k-base-e27-1"/>
+    <title>Copy of #41068 4W A19 Filament LED Clair 2700K/3000K/4000K Base E27</title>
+    <s:type>A19s</s:type>
+    <s:vendor>Kodak LED</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1011/5098/products/41145_123450a8-dade-432a-be8a-cbb5f4c82e9a.png?v=1501508313" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kodak LED<br>
+        <strong>Type: </strong>A19s<br>
+        <strong>Price: </strong>
+            9.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Description</strong></p>
+<p>L’ampoule de type A19 de KODAK Led Lighting est disponible en trois catégories : En verre Clair, Opaque et Ambre, cette ampoule bénéficie de la nouvelle technologie Filament LED. Elle offre un faisceau lumineux de 360° avec un globe 100% verre pour une durée de vie de 30 000 heures.</p>
+<p>Elle diffuse une lumière douce et chaleureuse.</p>
+<p>Toutes les ampoules KODAK LED sont dimmables.</p>
+<p>Certificats : CE, TUV, RoHS</p>
+<p><strong>Caractéristiques</strong></p>
+<ul>
+<li>Durée de vie : 30 000 Heures</li>
+<li>Garantie : 3 ans</li>
+<li>Puissance consommée : 4W</li>
+<li>IRC : 82</li>
+<li>Dimmable : OUI</li>
+<li>400 Lumens</li>
+<li>Faisceau Lumineux : 360°</li>
+<li>Pas d'UV / aucun IR</li>
+<li>Température de fonctionnement : -10 ° C à + 40 ° C, -24 ° F à + 104 ° F</li>
+</ul>
+<p><strong>Construction</strong></p>
+<ul>
+<li>Culot en aluminium</li>
+<li>Ampoule claire et 100% verre</li>
+<li>Filament extra long</li>
+<li>Base E27</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A19</s:tag>
+    <s:variant>
+      <id>https://kodakledlighting.eu/products/8674242501</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.20</s:price>
+      <s:sku>41145</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kodakledlighting.eu/products/3042051781</id>
+    <published>2015-11-23T15:47:00+01:00</published>
+    <updated>2015-11-23T15:47:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kodakledlighting.eu/products/42116-br-6w-a15-led-8-filament-2700k-br-e26-base"/>
+    <title>#42116-EU  A15 8W LED 8 Filaments 2700K / 3000K / 4000K Base E27</title>
+    <s:type>A19s</s:type>
+    <s:vendor>Kodak LED</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1011/5098/products/42116_A_15_9bee9043-6058-4f20-a516-00b1cfa3fcf1.jpeg?v=1448290043" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kodak LED<br>
+        <strong>Type: </strong>A19s<br>
+        <strong>Price: </strong>
+            33.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Description du produit</strong><br><br></p>
+<p>Disponible en trois catégories : En verre Clair, Opaque et Ambre cette nouvelle technologie de LED Filament et une ampoule 100% en verre présente un faisceau lumineux de 360° et une durée de vie de 30 000 heures.</p>
+<p>Lumière douce et chaleureuse.</p>
+<p>Toutes les ampoules KODAK LED sont réglables.</p>
+<p>CE, TUV, RoHS approuvé.</p>
+<p><br><strong>Caractéristiques</strong></p>
+<ul>
+<li>Durée de vie : 30 000 Heures</li>
+<li>Garantie : 3 ans</li>
+<li>Puissance consommée : 8W</li>
+<li>IRC : 82</li>
+<li>Gradable : OUI</li>
+<li>800 Lumens</li>
+<li>Faisceau Lumineux : 360°</li>
+<li>Pas d'UV / aucun IR</li>
+<li>Température de fonctionnement : -10 ° C à + 40 ° C, -24 ° F à + 104 ° F</li>
+</ul>
+<p><strong>Construction</strong><br><br>Culot en aluminium<br>Ampoule claire et 100% verre<br>Base E27</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A19</s:tag>
+    <s:variant>
+      <id>https://kodakledlighting.eu/products/3042051781</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">33.73</s:price>
+      <s:sku>42116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kodakledlighting.eu/products/2308645125</id>
+    <published>2015-10-02T10:00:00+02:00</published>
+    <updated>2015-10-02T10:00:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://kodakledlighting.eu/products/a19s-37"/>
+    <title>#55048-EU 6W A19 Filament LED Miroir 2700K/3000K/4000K Base E27</title>
+    <s:type>A19s</s:type>
+    <s:vendor>Kodak LED</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1011/5098/products/55049_884e753d-2359-4318-934d-cadc10808bbc.png?v=1448290552" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kodak LED<br>
+        <strong>Type: </strong>A19s<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Description du produit</strong><br><br>L'ampoule de Typa A19 Filament LED miroir de KODAK LED offre un angle de faisceau de 360 degrés. Procurant des effets de lumière étincelantes et incandescentes ressemblant aux anciennes générations d'ampoules. Idéale pour l'éclairage général et décoratif dans l'industrie hôtelière, ainsi que leur milieu familial. La lampe emploie filaments LED linéaire. </p>
+<p>Certificats : CE, TUV, RoHS</p>
+<p><strong>Caractéristiques</strong></p>
+<ul>
+<li>Durée de vie : 30 000 Heures</li>
+<li>Garantie : 3 ans</li>
+<li>Puissance consommée : 6W</li>
+<li>IRC : 82</li>
+<li>Dimmable : OUI</li>
+<li>6000 Lumens</li>
+<li>Faisceau Lumineux : 360°</li>
+<li>Pas d'UV / aucun IR</li>
+<li>Température de fonctionnement : -10 ° C à + 40 ° C, -24 ° F à + 104 ° F</li>
+</ul>
+<p><strong>Construction</strong></p>
+<ul>
+<li>Culot en aluminium</li>
+<li>Ampoule Clair avec un miroir </li>
+<li>Base E27</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A19</s:tag>
+    <s:variant>
+      <id>https://kodakledlighting.eu/products/2308645125</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.00</s:price>
+      <s:sku>55048</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+</feed>
